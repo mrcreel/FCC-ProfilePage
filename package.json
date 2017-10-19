@@ -1,0 +1,19 @@
+{
+  "name": "fcc-profilepage",
+  "version": "0.2.0",
+  "description": "Profile page for FCC project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcreel/FCC-ProfilePage.git"
+  },
+  "author": "Michael R Creel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrcreel/FCC-ProfilePage/issues"
+  },
+  "homepage": "https://github.com/mrcreel/FCC-ProfilePage#readme"
+}
